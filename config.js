@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // --- BOT CORE SETTINGS ---
-    SESSION_ID: process.env.SESSION_ID || "popkid-session",
+    SESSION_ID: process.env.SESSION_ID || "POPKID;;;fcsDxL4C#13qLyx7uPteMp4W9_VmS9pjRNe-PKOmYE77XkVJRSyw",
     PREFIX: process.env.PREFIX || ".",
     BOT_NAME: process.env.BOT_NAME || "POPKID-MD",
     DESCRIPTION: process.env.DESCRIPTION || "© popkid xtr bot",
